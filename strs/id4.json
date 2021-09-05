@@ -1,0 +1,314 @@
+{
+	"chat": [
+	{
+		"chat_id" : "1",
+		"name": "Amber",
+		"message": "Hey baby bro. How have you been? We haven't talked in a while."
+	},
+	{
+		"chat_id" : "2",
+		"name": "Luca",
+		"message": "Good."
+	},
+	{
+		"chat_id" : "3",
+		"name": "Amber",
+		"message": "It sucks that I'm so far away for college because I heard you killed it at your last game a few weeks ago."
+	},
+	{
+		"chat_id" : "4",
+		"name": "Luca",
+		"message": "Yeah I guess."
+	},
+	{
+		"chat_id" : "5",
+		"name": "Amber",
+		"message": "Luca? What is it? You okay? You're not still made at me for leaving for school are ya buddy?"
+	},
+	{
+		"chat_id" : "6",
+		"name": "Luca",
+		"message": "No. Mom and Dad are fighting again."
+	},
+	{
+		"chat_id" : "7",
+		"name": "Amber",
+		"message": "Like yelling fighting?"
+	},
+	{
+		"chat_id" : "8",
+		"name": "Luca",
+		"message": "Yeah. What other kind of fighting?"
+	},
+	{
+		"chat_id" : "9",
+		"name": "Amber",
+		"message": "Nothing. They could be not talking to each other or something."
+	},
+	{
+		"chat_id" : "10",
+		"name": "Luca",
+		"message": "I heard like a squishy thud sound. A couple of times. Like on TV when people are fighting each other. "
+	},
+	{
+		"chat_id" : "11",
+		"name": "Amber",
+		"message": "What do you think that was?"
+	},
+	{
+		"chat_id" : "12",
+		"name": "Luca",
+		"message": "IDK I went to go peak and Dad saw me and said mom fell down the stairs. It didn't sound like when she did the last few times though."
+	},
+	{
+		"chat_id" : "13",
+		"name": "Amber",
+		"message": "I'm sorry buddy. Did you see mom? Was she ok?"
+	},
+	{
+		"chat_id" : "14",
+		"name": "Luca",
+		"message": "Only a little. Dad was in front of her. He yelled at me for not staying in my room. Mom didn't say anything. She didn't even move."
+	},
+	{
+		"chat_id" : "15",
+		"name": "Amber",
+		"message": "Okay well do that. Stay in your room and don't do anything but talk to me. Get out a book or something and if Dad comes in just pretend to read."
+	},
+	{
+		"chat_id" : "16",
+		"name": "Luca",
+		"message": "Why? That would be lying and I could get in trouble more."
+	},
+	{
+		"chat_id" : "17",
+		"name": "Amber",
+		"message": "I don't want him to get mad at you anymore. You just need to trust that as your big sister I love you and I won't let anyone hurt you."
+	},
+	{
+		"chat_id" : "18",
+		"name": "Luca",
+		"message": "Who would want to hurt me Amber?"
+	},
+	{
+		"chat_id" : "19",
+		"name": "Amber",
+		"message": "No one buddy. And no one will."
+	},
+	{
+		"chat_id" : "20",
+		"name": "Luca",
+		"message": "I think everything is okay now. Daddy's friends', Will and James are here now."
+	},
+	{
+		"chat_id" : "21",
+		"name": "Amber",
+		"message": "What is mom doing? Don't get caught looking and don't leave your room."
+	},
+	{
+		"chat_id" : "22",
+		"name": "Luca",
+		"message": "She's taking a nap on the couch."
+	},
+	{
+		"chat_id" : "23",
+		"name": "Amber",
+		"message": "She never does that. Where is Dad?"
+	},
+	{
+		"chat_id" : "24",
+		"name": "Luca",
+		"message": "He's outside with his friends? What's wrong?"
+	},
+	{
+		"chat_id" : "25",
+		"name": "Amber",
+		"message": "Nothing but I need you to listen to me carefully...quickly and quietly go to mom and hold her wrist and tell me if you feel something."
+	},
+	{
+		"chat_id" : "26",
+		"name": "Luca",
+		"message": "I know what a pulse is. Moms not dead. You're acting strange."
+	},
+	{
+		"chat_id" : "27",
+		"name": "Amber",
+		"message": "Do it Luca! Then go back to your room alright."
+	},
+	{
+		"chat_id" : "28",
+		"name": "Luca",
+		"message": "Amber I'm scared. I didn't feel one."
+	},
+	{
+		"chat_id" : "29",
+		"name": "Amber",
+		"message": "Check her breathing. See if you feel air coming from her nose."
+	},
+	{
+		"chat_id" : "30",
+		"name": "Luca",
+		"message": "Nothing! Nothing at all! What do I do? Dad is gonna think I did this. Is she going to be okay Amber?"
+	},
+	{
+		"chat_id" : "31",
+		"name": "Amber",
+		"message": "Just stay calm for me sweetie. Go to your room and turn on the TV alright."
+	},
+	{
+		"chat_id" : "32",
+		"name": "Amber",
+		"message": "Stay calm. He is going to come in to check on you soon. Just keep watching TV"
+	},
+	{
+		"chat_id" : "33",
+		"name": "Luca",
+		"message": "He came in just now. He didn't say anything just looked around."
+	},
+	{
+		"chat_id" : "34",
+		"name": "Amber",
+		"message": "Good. You're going to need to go to the train station."
+	},
+	{
+		"chat_id" : "35",
+		"name": "Luca",
+		"message": "Why? I don't know how to ride the train. Dad is going to be mad at me Amber. You're not even here."
+	},
+	{
+		"chat_id" : "36",
+		"name": "Amber",
+		"message": "Just listen to me Luca. I'm trying to keep you safe."
+	},
+	{
+		"chat_id" : "37",
+		"name": "Luca",
+		"message": "From what? Does someone want to kidnap me?"
+	},
+	{
+		"chat_id" : "38",
+		"name": "Amber",
+		"message": "Yes! And you can't tell Dad because they said so. So listening to me is how you don't get kidnapped ok."
+	},
+	{
+		"chat_id" : "39",
+		"name": "Luca",
+		"message": "I'm going to be brave like a super hero Amber. I promise. I'm going to sneak out through the back. I'll text you when I get there."
+	},
+	{
+		"chat_id" : "40",
+		"name": "Amber",
+		"message": "Okay. Stay safe. When you get there get on the red line. It will say it is going to Doraville. When you get there come out the front of the train station and take a right to keep going straight. 3 blocks down you will see a red brick building on the left with no signs. It's a home for abuse victims. Call me and I will explain everything to them."
+	},
+	{
+		"chat_id" : "41",
+		"name": "Luca",
+		"message": "You think mom was abused?"
+	},
+	{
+		"chat_id" : "42",
+		"name": "Amber",
+		"message": "We will talk about it later. Just stay alert. I've got your back little man."
+	},
+	{
+		"chat_id" : "43",
+		"name": "Luca",
+		"message": "I'm on the train now. I don't see anyone weird."
+	},
+	{
+		"chat_id" : "44",
+		"name": "Luca",
+		"message": "Amber!!! They're here. They're sitting right across from me."
+	},
+	{
+		"chat_id" : "45",
+		"name": "Luca",
+		"message": "Mom is leaning on one of them. She probably came to look for me."
+	},
+	{
+		"chat_id" : "46",
+		"name": "Amber",
+		"message": "My God! He is truly sick. Stay calm. Pretend like you don't see them."
+	},
+	{
+		"chat_id" : "47",
+		"name": "Luca",
+		"message": "Should I move away? You don't want me to help mom?"
+	},
+	{
+		"chat_id" : "48",
+		"name": "Amber",
+		"message": "We will just trust me. On the next stop get off at the last minute and catch the next train going in the same direction."
+	},
+	{
+		"chat_id" : "49",
+		"name": "Luca",
+		"message": "They know it's me. They're pointing at me. Will just picked up mom's hand and waved it at me. Amber can you just come get me? I can't do this. Can't we call the police?"
+	},
+	{
+		"chat_id" : "50",
+		"name": "Amber",
+		"message": "We can, but not yet. You have to get to that place. They will help you to get to me. I'm not really away at college I'm only 16 Luca. Dad did the same thing to my real mom. I know how to help you. Just stay brave and trust me."
+	},
+	{
+		"chat_id" : "51",
+		"name": "Luca",
+		"message": "Alright. I'm on the next train. Why didn't you tell me before? And what did he do?"
+	},
+	{
+		"chat_id" : "52",
+		"name": "Amber",
+		"message": "You're my little brother. I have to protect you. But we will talk about it later. Just do as I said. Doraville station. Don't forget."
+	},
+	{
+		"chat_id" : "53",
+		"name": "Amber",
+		"message": "Luca It's been almost an hour. It doesn't take this long. Let me know you're okay."
+	},
+	{
+		"chat_id" : "54",
+		"name": "Amber",
+		"message": "Luca. Where are you? Are you in a bad service area or in one of those tunnels? At least type something so I know you're okay."
+	},
+	{
+		"chat_id" : "55",
+		"name": "Luca",
+		"message": "I'm sorry Amber."
+	},
+	{
+		"chat_id" : "56",
+		"name": "Amber",
+		"message": "It's okay. I'm just relieved you're alright. Did you make it to the place I told you about?"
+	},
+	{
+		"chat_id" : "57",
+		"name": "Luca",
+		"message": "Yeah. Dad was there."
+	},
+	{
+		"chat_id" : "58",
+		"name": "Luca",
+		"message": "I'm in the trunk now. He said he knows I had help and if it was you to tell you goodbye from me and he will see you soon."
+	},
+	{
+		"chat_id" : "59",
+		"name": "Amber",
+		"message": "Luca. Where are you? Kick out a tail light. Luca! Don't give up."
+	},
+	{
+		"chat_id" : "60",
+		"name": "Luca",
+		"message": "I feel really light headed. He hit me before he put me in here. I'm bleeding a lot too."
+	},
+	{
+		"chat_id" : "61",
+		"name": "Amber",
+		"message": "You aren't alone. I love you Luca. Just think about that. Don't be afraid."
+	},
+	{
+		"chat_id" : "62",
+		"name": "Luca",
+		"message": "I know I'm not alone. Mom is back here too. She's asleep again though."
+	}
+	]
+}

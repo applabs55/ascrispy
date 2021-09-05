@@ -1,0 +1,284 @@
+{
+	"chat": [
+	{
+		"chat_id" : "1",
+		"name": "Girl",
+		"message": "I love you."
+	},
+	{
+		"chat_id" : "2",
+		"name": "Boy",
+		"message": "Yeah I know everyone does!"
+	},
+	{
+		"chat_id" : "3",
+		"name": "Girl",
+		"message": "Really?"
+	},
+	{
+		"chat_id" : "4",
+		"name": "Boy",
+		"message": "Yeah...every one of my friends that are girls tell me that everyday."
+	},
+	{
+		"chat_id" : "5",
+		"name": "Girl",
+		"message": "Oh...but am I only your friend?"
+	},
+	{
+		"chat_id" : "6",
+		"name": "Boy",
+		"message": "No...you're my girlfriend...why?"
+	},
+	{
+		"chat_id" : "7",
+		"name": "Girl",
+		"message": "So when I say I love you I really do mean it." 
+	},
+	{
+		"chat_id" : "8",
+		"name": "Boy",
+		"message": "Yeah I know you do mean it...its just that you dont need to tell me that you love me anymore cuz I know youve love me since the day we been together and i love you more each and everyday."
+	},
+	{
+		"chat_id" : "9",
+		"name": "Girl",
+		"message": "......"
+	},
+	{
+		"chat_id" : "10",
+		"name": "Boy",
+		"message": "So wanna go somewhere tonight for our 7th anniversary?"
+	},
+	{
+		"chat_id" : "11",
+		"name": "Girl",
+		"message": "Yeah...where?"
+	},
+	{
+		"chat_id" : "12",
+		"name": "Girl",
+		"message": "I dont know...maybe movie then dinner?"
+	},
+	{
+		"chat_id" : "13",
+		"name": "Girl",
+		"message": "Ok."
+	},
+	{
+		"chat_id" : "14",
+		"name": "Boy",
+		"message": "Ill pick you up after I get off and get ready ok?"
+	},
+	{
+		"chat_id" : "15",
+		"name": "Girl",
+		"message": "Ok. What time do you get off?"
+	},
+	{
+		"chat_id" : "16",
+		"name": "Boy",
+		"message": "In 2 hours and then I gotta go home and yeah get ready which takes about 15-20 minutes..."
+	},
+	{
+		"chat_id" : "17",
+		"name": "Girl",
+		"message": "hey...I thought you didnt have work today..."
+	},
+	{
+		"chat_id" : "18",
+		"name": "Boy",
+		"message": "One of my co-workers called in sick."
+	},
+	{
+		"chat_id" : "19",
+		"name": "Girl",
+		"message": "Oh okay! So ill see you around 7:30 then?"
+	},
+	{
+		"chat_id" : "20",
+		"name": "Boy",
+		"message": "Yeah! and babe?"
+	},
+	{
+		"chat_id" : "21",
+		"name": "Girl",
+		"message": "Yeah?"
+	},
+	{
+		"chat_id" : "22",
+		"name": "Boy",
+		"message": "I love you."
+	},
+	{
+		"chat_id" : "23",
+		"name": "Girl",
+		"message": "I love you too!"
+	},
+	{
+		"chat_id" : "24",
+		"name": "Boy",
+		"message": "Ok my manager is like looking at me so yeah.... i gotta go."
+	},
+	{
+		"chat_id" : "25",
+		"name": "Girl",
+		"message": "Ok bye."
+	},
+	{
+		"chat_id" : "26",
+		"name": "Boy",
+		"message": "Bye"
+	},
+	{
+		"chat_id" : "27",
+		"name": "Girl",
+		"message": "(2 hours later) Hey! (gives a kiss to her boyfriend)"
+	},
+	{
+		"chat_id" : "28",
+		"name": "Boy",
+		"message": "Wassup...you ready?"
+	},
+	{
+		"chat_id" : "29",
+		"name": "Girl",
+		"message": "Um...wait...let me get my bag and we can go ok?"
+	},
+	{
+		"chat_id" : "30",
+		"name": "Boy",
+		"message": "Ok. (They both watched a movie and ate dinner...once they were done eating they head back to the car but before she got into the car...)"
+	},
+	{
+		"chat_id" : "31",
+		"name": "Girl",
+		"message": "Wait! Can I blindfold you?"
+	},
+	{
+		"chat_id" : "32",
+		"name": "Boy",
+		"message": "Why??!"
+	},
+	{
+		"chat_id" : "33",
+		"name": "Girl",
+		"message": "Its a surprise."
+	},
+	{
+		"chat_id" : "34",
+		"name": "Boy",
+		"message": "A big one."
+	},
+	{
+		"chat_id" : "35",
+		"name": "Girl",
+		"message": "Okay but only if you promise me that you will hold my hand while we're driving."
+	},
+	{
+		"chat_id" : "36",
+		"name": "Boy",
+		"message": "I promise."
+	},
+	{
+		"chat_id" : "37",
+		"name": "Girl",
+		"message": "Ok blindfold me..."
+	},
+	{
+		"chat_id" : "38",
+		"name": "Boy",
+		"message": "Ok we're here!"
+	},
+	{
+		"chat_id" : "39",
+		"name": "Girl",
+		"message": "Where?"
+	},
+	{
+		"chat_id" : "40",
+		"name": "Boy",
+		"message": "Wait let me walk you to the place!"
+	},
+	{
+		"chat_id" : "41",
+		"name": "Girl",
+		"message": "What place?"
+	},
+	{
+		"chat_id" : "42",
+		"name": "Boy",
+		"message": "Somewhere! (and gives a kiss to her on the lips)"
+	},
+	{
+		"chat_id" : "43",
+		"name": "Girl",
+		"message": "Baby!... (The boy walks her to the place.)"
+	},
+	{
+		"chat_id" : "44",
+		"name": "Boy",
+		"message": "Ok...let me take the blindfold off."
+	},
+	{
+		"chat_id" : "45",
+		"name": "Girl",
+		"message": "Where are we? (He takes it off her and she opens her eyes and sees the view of the city and at that same spot...that's where he first asked her to be his girlfriend....)"
+	},
+	{
+		"chat_id" : "46",
+		"name": "Girl",
+		"message": "Omg...(tears come down)"
+	},
+	{
+		"chat_id" : "47",
+		"name": "Boy",
+		"message": "Why are you crying?"
+	},
+	{
+		"chat_id" : "48",
+		"name": "Girl",
+		"message": "This is where you first asked me out..."
+	},
+	{
+		"chat_id" : "49",
+		"name": "Boy",
+		"message": "What are you doing the rest of your life? (he asked on his knees and after he says that...behind him...in the air it says, 'Will you marry me?' in fireworks"
+	},
+	{
+		"chat_id" : "50",
+		"name": "Girl",
+		"message": "(tears come down faster)"
+	},
+	{
+		"chat_id" : "51",
+		"name": "Boy",
+		"message": "I wasnt at work when you called me...I was planning this whole thing!"
+	},
+	{
+		"chat_id" : "52",
+		"name": "Girl",
+		"message": "Get up!"
+	},
+	{
+		"chat_id" : "53",
+		"name": "Boy",
+		"message": "Yeah?"
+	},
+	{
+		"chat_id" : "54",
+		"name": "Girl",
+		"message": "(kisses him)"
+	},
+	{
+		"chat_id" : "55",
+		"name": "Boy",
+		"message": "Is that a yes or a no?"
+	},
+	{
+		"chat_id" : "56",
+		"name": "Girl",
+		"message": "Yes."
+	}
+	]
+}

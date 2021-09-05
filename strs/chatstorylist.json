@@ -1,0 +1,75 @@
+{
+     "chat_story_banner" : [
+		{
+			"story_id" : "id1",
+			"story_name": "You Owe Me",
+			"publisher": "Carmen Norris",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id1.png"
+		},
+		{
+			"story_id" : "id2",
+			"story_name": "Kartik proposed Ritisha",
+			"publisher": "Kirti",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id2.png"
+		},
+		{
+			"story_id" : "id3",
+			"story_name": "A Cute Love Story",
+			"publisher": "Alisha",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id3.png"
+		}
+		
+	],
+	
+	"chat_story_list" : [
+		{
+			"story_id" : "id1",
+			"story_name": "You Owe Me",
+			"publisher": "Carmen Norris",
+			"category" : "Call Conversation",
+			"short_description" : "Tyler & Harrison's Call",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id1.png"
+		},
+		{
+			"story_id" : "id2",
+			"story_name": "Kartik proposed Ritisha",
+			"publisher": "Kirti",
+			"category" : "Love",
+			"short_description" : "A sweet love story of Kartik and Ritisha",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id2.png"
+		},
+		{
+			"story_id" : "id3",
+			"story_name": "A Cute Love Story",
+			"publisher": "Alisha",
+			"category" : "Love",
+			"short_description" : "A Breathtaking Experience.",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id3.png"
+		},
+		{
+			"story_id" : "id4",
+			"story_name": "Her Last Fall",
+			"publisher": "Carmen Norris",
+			"category" : "Fear",
+			"short_description" : "Luca is a little brother of Amber. Luca is in fear of getting kidnapped.",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id4.png"
+		},
+		{
+			"story_id" : "id5",
+			"story_name": "Will You Marry Me?",
+			"publisher": "Axisa",
+			"category" : "Propose",
+			"short_description" : "A boy proposed her girl at the place where they met for the first time.",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id5.png"
+		},
+		{
+			"story_id" : "id6",
+			"story_name": "Painful Romance",
+			"publisher": "Carmen Norris",
+			"category" : "Romance",
+			"short_description" : "A Painful breakup story of Kash and Ashlyn",
+			"story_photo" : "https://ligerinfotech.com/clicktochat/chatstory/id6.png"
+		}
+		
+	]
+}
